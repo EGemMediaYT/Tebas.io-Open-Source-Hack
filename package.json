@@ -1,0 +1,19 @@
+{
+  "name": "Tebas.io-Open-Source-Hack",
+  "version": "1.0.0",
+  "description": "An open source hack for Tebas.io",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "author": "EGem",
+  "license": "MIT"
+}
