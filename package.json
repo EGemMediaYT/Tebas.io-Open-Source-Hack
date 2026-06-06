@@ -16,5 +16,6 @@
   },
   "author": "EGem",
   "license": "MIT"
-  "requireStack": false
+  },
+"requireStack": false
   },
